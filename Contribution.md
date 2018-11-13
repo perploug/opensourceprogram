@@ -1,7 +1,6 @@
 # _ModelCo_ Contribution Guidelines
 
-** Thank you for your interest in getting involved with _ModelCo_ Open Source 🎉. We appreciate your work and provide the following
-guidelines on how to contribute**
+** Thank you for your interest in getting involved with _ModelCo_ Open Source 🎉. We appreciate your work and provide the following guidelines on how to contribute **
 
 ## How to adopt open source dependencies
 Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate 
