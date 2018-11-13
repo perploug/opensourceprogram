@@ -2,7 +2,9 @@
 
 Our open source source program: bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
-**Table of Contents**
+**[Our contribution guidelines]() and [Policies on Licensing and Copyright]()** 
+
+### Table of Contents
 - [Vision and purpose]()
 - [Why get involved?]()
 - [Where to get started]()
